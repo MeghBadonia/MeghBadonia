@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **badoniamegh@gmail.com**
-
-- ⚡ Fun fact **Fun denied. Execution approved.**
