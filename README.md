@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Megh</h1>
-<h3 align="center">A Developer from India</h3>
 
 - 🔭 I’m currently working on [mcugen](https://github.com/MeghBadonia/mcugen)
 
